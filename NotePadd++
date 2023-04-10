@@ -1,1 +1,2 @@
+## Installs NotePad++ ##
 winget install -e --id Notepad++.Notepad++
